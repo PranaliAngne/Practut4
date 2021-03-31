@@ -1,0 +1,1 @@
+"0","knitr::kable(head(dat, n=5), caption = ""These are the first 5 rows"")"
